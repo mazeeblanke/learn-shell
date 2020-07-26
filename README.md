@@ -39,3 +39,13 @@ you are free to do the following:
 ### How to run scripts
 1) Navigate to the specific directory
 2) run shell script using ```bash <name_of_scriot>```
+
+### An example shell script for setup of a LAMP environment is provided within '/src/lamp-setup'
+
+### REQUIREMENTS
+* Virtualbox and vagrant
+
+Setup
+1) run ```Vagrant up```
+
+
